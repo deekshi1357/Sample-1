@@ -2,3 +2,8 @@ name : realme
 version : 12.0
 RAM : 8GB
 VERSION : 13.0
+
+
+
+
+........
